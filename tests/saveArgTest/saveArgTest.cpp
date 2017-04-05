@@ -1,3 +1,7 @@
+/*
+ * http://stackoverflow.com/questions/39323381/what-is-the-difference-of-savearg-and-saveargpointee-in-gmock
+ */
+
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
 
